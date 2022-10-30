@@ -1,0 +1,3 @@
+[[Diatonic scale]] is any [[heptatonic scale]], all sounds of which can be obtained by using a chain of ascending [[perfect fifth]]s of descending [[perfect fourth]]s.
+
+It includes five [[whole step]]s ([[tone]]s) and two [[half step]]s ([[semitone]]s) in each [[octave]], in which the two [[half step]]s are separated from each other by either two or three [[whole step]]s, depending on their position in the [[scale]]. 

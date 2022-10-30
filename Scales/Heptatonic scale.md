@@ -1,0 +1,1 @@
+A [[heptatonic scale]] is a musical [[scale]] that has seven [[tone]]s per [[octave]].
